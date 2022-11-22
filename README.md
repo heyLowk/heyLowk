@@ -6,7 +6,7 @@ I'am a full-develeper building my version of the digital world one step at a tim
 
    <p align="left">
       <a href="https://www.twitter.com/lowk41">
-         <img alt="youtube views" title="Follow on Twitter" src="[https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600](https://custom-icon-badges.demolab.com/twitter/follow/lowk41?style=social)"/></a> 
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/twitter/follow/lowk41?color=blue&style=for-the-badge"/></a> 
       <a href="https://github.com/heyLowk?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/heyLowk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/heyLowk?tab=repositories&sort=stargazers">
